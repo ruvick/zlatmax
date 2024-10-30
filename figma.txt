@@ -1,0 +1,6 @@
+Включить линейку - SHIFT + R
+Показать сетку - SHIFT + G
+Плагин для шрифтов Font Fascia 
+Outline Stroke - Cntrl+Alt+O
+
+VS CODE подключение шрифтов - F1, выбираем Google Fonts insert css @import
