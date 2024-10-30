@@ -4,3 +4,4 @@
 Outline Stroke - Cntrl+Alt+O
 
 VS CODE подключение шрифтов - F1, выбираем Google Fonts insert css @import
+Иконочный шрифт - https://icomoon.io/app/#/select
